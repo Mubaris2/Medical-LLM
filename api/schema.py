@@ -12,6 +12,15 @@ class QueryResponse(BaseModel):
 class DiseaseRequest(BaseModel):
     disease: str
 
+class DiseaseResponse(BaseModel):
+    disease: str
+    summary: str
+    cause: str
+    symptoms: List[str]
+    treatments: List[str]
+    emotional_support: str
+    nearby_hospitals: Optional[List[str]] = None
+    
 class SymptomRequest(BaseModel):
     symptoms: List[str]
     top_k: Optional[int] = 5

@@ -1,7 +1,7 @@
 from fastapi import FastAPI, HTTPException, Depends
-from api.schema import QueryRequest, QueryResponse, DiseaseRequest, SymptomRequest, SymptomPrediction
-from api.deps import load_index_and_docs, embed_text, load_llm, _model, _tokenizer
-import numpy as np, torch, json
+from api.schema import QueryRequest, QueryResponse, DiseaseRequest, SymptomRequest, SymptomPrediction, DiseaseResponse
+from api.deps import load_index_and_docs, embed_text, load_llm
+import numpy as np, torch, json, re
 from typing import List
 
 app = FastAPI(title="MedicalLLM RAG API")
@@ -30,22 +30,58 @@ def query_rag_endpoint(req: QueryRequest):
         answer = answer.split("Answer:")[-1].strip()
     return QueryResponse(answer=answer, retrieved_docs=retrieved)
 
-@app.post("/disease_summary")
+@app.post("/disease_summary", response_model=DiseaseResponse)
 def disease_summary(req: DiseaseRequest):
-    disease = req.disease.lower()
+    disease = req.disease.strip().lower()
     hits = [d for d in docs if d.lower().startswith(disease)]
     if not hits:
-        query = f"Provide a concise structured summary for disease: {req.disease}. Include summary, cause, symptoms, treatments, emotional message."
-        answer, _ = query_rag_endpoint(QueryRequest(query=query, top_k=3))
-        return {"disease": req.disease, "structured": answer.answer if isinstance(answer, QueryResponse) else answer}
-    prompt = f"Based strictly on the document below, produce output separated by newlines exactly in this format:\nSummary:\nCause:\nSymptoms:\nTreatments:\nEmotional Support:\n\nDocument:\n{hits[0]}\n\nOutput:"
+        query = f"Provide structured medical information about {req.disease}."
+        retrieved_docs, _ = retrieve_docs(query, top_k=3)
+        context = "\n\n".join(retrieved_docs)
+    else:
+        context = hits[0]
+
+    prompt = f"""
+You are a medical assistant. Read the document below and extract only the following fields:
+
+- Summary (1-2 lines)
+- Cause
+- Symptoms (as a list)
+- Treatments (as a list)
+- Emotional_support (1 comforting sentence)
+
+Return output STRICTLY in JSON format with keys:
+summary, cause, symptoms, treatments, emotional_support
+
+Document:
+{context}
+
+JSON Output:
+"""
+
     inputs = tokenizer(prompt, return_tensors="pt").to(model.device)
     with torch.no_grad():
-        out = model.generate(**inputs, max_new_tokens=256, temperature=0.2)
-    response = tokenizer.decode(out[0], skip_special_tokens=True)
-    if "Summary:" in response:
-        response = response.split("Summary:",1)[1].strip()
-    return {"disease": req.disease, "structured": response}
+        out = model.generate(**inputs, max_new_tokens=256, temperature=0.2, do_sample=False)
+
+    raw = tokenizer.decode(out[0], skip_special_tokens=True)
+
+    match = re.search(r"\{.*\}", raw, re.DOTALL)
+    if not match:
+        raise HTTPException(status_code=500, detail="Model did not return valid JSON.")
+
+    try:
+        data = json.loads(match.group())
+    except json.JSONDecodeError:
+        raise HTTPException(status_code=500, detail="Failed to parse model's JSON output.")
+    return DiseaseResponse(
+        disease=req.disease,
+        summary=data.get("summary", "Not available"),
+        cause=data.get("cause", "Not available"),
+        symptoms=data.get("symptoms", []),
+        treatments=data.get("treatments", []),
+        emotional_support=data.get("emotional_support", "You'll be okay."),
+        nearby_hospitals=[]
+    )
 
 @app.post("/symptom_checker", response_model=List[SymptomPrediction])
 def symptom_checker(req: SymptomRequest):
