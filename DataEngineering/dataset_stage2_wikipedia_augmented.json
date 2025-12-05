@@ -1,0 +1,951 @@
+[
+    {
+        "disease": "Fungal infection",
+        "symptoms": [
+            "itching",
+            "skin_rash",
+            "nodal_skin_eruptions",
+            "dischromic _patches"
+        ],
+        "summary": "Fungal infection, also known as mycosis, is a disease caused by fungi. Different types are traditionally divided according to the part of the body affected: superficial, subcutaneous, and systemic. Superficial fungal infections include common tinea of the skin, such as tinea of the body, groin, hands, feet and beard, and yeast infections such as pityriasis versicolor. Subcutaneous types include eumycetoma and chromoblastomycosis, which generally affect tissues in and beneath the skin. Systemic f",
+        "cause": "Mycoses are caused by certain fungi; yeasts, molds and some fungi that can exist as both a mold and yeast. They are everywhere and infection occurs after spores are either breathed in, come into contact with skin or enter the body through the skin such as via a cut, wound or injection. Candida albicans is the most common cause of fungal infection in people, particularly as oral or vaginal thrush, often following taking antibiotics.",
+        "treatments": [
+            "Treatment depends on the type of fungal infection, and usually requires topical or systemic antifungal medicines. Pneumocystosis that does not respond to anti-fungals is treated with co-trimoxazole. Sometimes, infected tissue needs to be surgically cut away."
+        ],
+        "emotional_support": "",
+        "qa_pairs": [],
+        "sources": [
+            "kaggle_disease_symptoms_patient_profile",
+            "wikipedia"
+        ]
+    },
+    {
+        "disease": "Allergy",
+        "symptoms": [
+            "continuous_sneezing",
+            "shivering",
+            "chills",
+            "watering_from_eyes"
+        ],
+        "summary": "An allergy is an exaggerated immune response where the body mistakenly identifies an ordinarily harmless allergen as a threat. Allergic reactions give rise to allergic diseases such as hay fever, allergic conjunctivitis, allergic asthma, atopic dermatitis, food allergies, and anaphylaxis. Symptoms of allergic diseases may include red eyes, an itchy rash, sneezing, coughing, a runny nose, shortness of breath, or swelling.\nCommon allergens include pollen, certain foods, metals, insect stings, and ",
+        "cause": "Risk factors for allergies can be placed in two broad categories, namely host and environmental factors. Host factors include heredity, sex, race, and age, with heredity being by far the most significant. However, there has been a recent increase in the incidence of allergic disorders that cannot be explained by genetic factors alone. Four major environmental candidates are alterations in exposure to infectious diseases during early childhood, environmental pollution, allergen levels, and dietar",
+        "treatments": [
+            "Management of allergies typically involves avoiding the allergy trigger and taking medications to improve the symptoms. Allergen immunotherapy may be useful for some types of allergies."
+        ],
+        "emotional_support": "",
+        "qa_pairs": [],
+        "sources": [
+            "kaggle_disease_symptoms_patient_profile",
+            "wikipedia"
+        ]
+    },
+    {
+        "disease": "GERD",
+        "symptoms": [
+            "stomach_pain",
+            "acidity",
+            "ulcers_on_tongue",
+            "vomiting",
+            "cough",
+            "chest_pain"
+        ],
+        "summary": "Gastroesophageal reflux disease (GERD) or gastro-oesophageal reflux disease (GORD)  is a chronic upper gastrointestinal disease in which stomach content persistently and regularly flows up into the esophagus, resulting in symptoms and/or complications. Symptoms include dental corrosion, dysphagia, heartburn, odynophagia, regurgitation, non-cardiac chest pain, extraesophageal symptoms such as chronic cough, hoarseness, reflux-induced laryngitis, or asthma. In the long term, and when not treated, ",
+        "cause": "A small amount of acid reflux is typical even in healthy people (as with infrequent and minor heartburn), but gastroesophageal reflux becomes gastroesophageal reflux disease when signs and symptoms develop into a recurrent problem. Frequent acid reflux is due to poor closure of the lower esophageal sphincter, which is at the junction between the stomach and the esophagus.\nFactors that can contribute to GERD:\n\nHiatal hernia, which increases the likelihood of GERD due to mechanical and motility fa",
+        "treatments": [
+            "The treatments for GERD may include food choices, lifestyle changes, medications, and possibly surgery. Initial treatment is frequently with a proton-pump inhibitor such as omeprazole. In some cases, a person with GERD symptoms can manage them by taking over-the-counter drugs. This is often safer and less expensive than taking prescription drugs. Some guidelines recommend trying to treat symptoms with an H2 antagonist before using a proton-pump inhibitor because of cost and safety concerns."
+        ],
+        "emotional_support": "",
+        "qa_pairs": [],
+        "sources": [
+            "kaggle_disease_symptoms_patient_profile",
+            "wikipedia"
+        ]
+    },
+    {
+        "disease": "Chronic cholestasis",
+        "symptoms": [
+            "itching",
+            "vomiting",
+            "yellowish_skin",
+            "nausea",
+            "loss_of_appetite",
+            "abdominal_pain",
+            "yellowing_of_eyes"
+        ],
+        "summary": "Cholestasis is a condition where the flow of bile from the liver to the duodenum is impaired. The two basic distinctions are:\n\nobstructive type of cholestasis, where there is a mechanical blockage in the duct system that can occur from a gallstone or malignancy, and\nmetabolic type of cholestasis, in which there are disturbances in bile formation that can occur because of genetic defects or acquired as a side effect of many medications.\nClassification is further divided into acute or chronic and ",
+        "cause": "",
+        "treatments": [],
+        "emotional_support": "",
+        "qa_pairs": [],
+        "sources": [
+            "kaggle_disease_symptoms_patient_profile",
+            "wikipedia"
+        ]
+    },
+    {
+        "disease": "Drug Reaction",
+        "symptoms": [
+            "itching",
+            "skin_rash",
+            "stomach_pain",
+            "burning_micturition",
+            "spotting_ urination"
+        ],
+        "summary": "An adverse drug reaction (ADR) is an unintended medical event, which can potentially be associated with taking a medication. It can be disadvantageous or beneficial for the patient. ADRs may occur following a single dose or prolonged administration of a drug or may result from the combination of two or more drugs. The meaning of this term differs from the term \"side effect\" because side effects are proven by thorough investigation to have relationship to the drug. The study of ADRs is the concer",
+        "cause": "",
+        "treatments": [],
+        "emotional_support": "",
+        "qa_pairs": [],
+        "sources": [
+            "kaggle_disease_symptoms_patient_profile",
+            "wikipedia"
+        ]
+    },
+    {
+        "disease": "Peptic ulcer diseae",
+        "symptoms": [
+            "vomiting",
+            "loss_of_appetite",
+            "abdominal_pain",
+            "passage_of_gases",
+            "internal_itching"
+        ],
+        "summary": "Peptic ulcer disease refers to damage of the inner part of the stomach's gastric mucosa (lining of the stomach), the first part of the small intestine, or sometimes the lower esophagus. An ulcer in the stomach is called a gastric ulcer, while one in the first part of the intestines is a duodenal ulcer. The most common symptoms of a duodenal ulcer are waking at night with upper abdominal pain, and upper abdominal pain that improves with eating. With a gastric ulcer, the pain may worsen with eatin",
+        "cause": "",
+        "treatments": [],
+        "emotional_support": "",
+        "qa_pairs": [],
+        "sources": [
+            "kaggle_disease_symptoms_patient_profile",
+            "wikipedia"
+        ]
+    },
+    {
+        "disease": "AIDS",
+        "symptoms": [
+            "muscle_wasting",
+            "patches_in_throat",
+            "high_fever",
+            "extra_marital_contacts"
+        ],
+        "summary": "The human immunodeficiency virus (HIV) is a retrovirus that attacks the immune system. Without treatment, it can lead to a spectrum of conditions including acquired immunodeficiency syndrome (AIDS). It is a preventable disease. It can be managed with treatment and become a manageable chronic health condition. While there is no cure or vaccine for HIV, antiretroviral treatment can slow the course of the disease, and, if used before significant disease progression, can extend the life expectancy o",
+        "cause": "",
+        "treatments": [
+            "HIV/AIDS is a terminal illness, as there is currently no cure, nor an effective HIV vaccine. Treatment consists of highly active antiretroviral therapy (ART), which slows progression of the disease. As of 2022, 39 million people globally were living with HIV, and 29.8 million people were accessing ART. Treatment also includes preventive and active treatment of opportunistic infections. As of July 2022, four people have been successfully cleared of HIV. Rapid initiation of antiretroviral therapy within one week of diagnosis appear to improve treatment outcomes in low and medium-income settings and is recommend for newly diagnosed HIV patients.\nHIV retinopathy was a very common cause of blindness in people with AIDS before the introduction of highly active antiretroviral therapy, but its incidence is declining due to proper and timely management of AIDS. Even if there are signs of retinopathy, it may reverse as CD4+ T cell counts increase. Reversal of HIV retinopathy is a helpful sign of positive response to antiretroviral therapy in AIDS patients. But if HIV treatment is delayed it may lead to permanent visual loss. \nOccurrence of HIV retinopathy may also be an indicator of therapeutic failure in AIDS patients undergoing treatment."
+        ],
+        "emotional_support": "",
+        "qa_pairs": [],
+        "sources": [
+            "kaggle_disease_symptoms_patient_profile",
+            "wikipedia"
+        ]
+    },
+    {
+        "disease": "Diabetes",
+        "symptoms": [
+            "fatigue",
+            "weight_loss",
+            "restlessness",
+            "lethargy",
+            "irregular_sugar_level",
+            "blurred_and_distorted_vision",
+            "obesity",
+            "excessive_hunger",
+            "increased_appetite",
+            "polyuria"
+        ],
+        "summary": "Diabetes mellitus, commonly known as diabetes, is a group of common endocrine diseases characterized by sustained high blood sugar levels. Diabetes is due to either the pancreas not producing enough of the hormone insulin or the cells of the body becoming unresponsive to insulin's effects. Classic symptoms include the three Ps: polydipsia (excessive thirst), polyuria (excessive urination), polyphagia (excessive hunger), weight loss, and blurred vision. If left untreated, the disease can lead to ",
+        "cause": "",
+        "treatments": [
+            "Diabetes management concentrates on keeping blood sugar levels close to normal, without causing low blood sugar. This can usually be accomplished with dietary changes, exercise, weight loss, and use of appropriate medications (insulin, oral medications).\nLearning about the disease and actively participating in the treatment is important, since complications are far less common and less severe in people who have well-managed blood sugar levels. The goal of treatment is an HbA1C level below 7%. Attention is also paid to other health problems that may accelerate the negative effects of diabetes. These include smoking, high blood pressure, metabolic syndrome, obesity, and lack of regular exercise. Specialized footwear is widely used to reduce the risk of diabetic foot ulcers by relieving the pressure on the foot. Foot examination for patients living with diabetes should be done annually which includes sensation testing, foot biomechanics, vascular integrity and foot structure.\nConcerning those with severe mental illness, the efficacy of type 2 diabetes self-management interventions is still poorly explored, with insufficient scientific evidence to show whether these interventions have similar results to those observed in the general population."
+        ],
+        "emotional_support": "",
+        "qa_pairs": [],
+        "sources": [
+            "kaggle_disease_symptoms_patient_profile",
+            "wikipedia"
+        ]
+    },
+    {
+        "disease": "Gastroenteritis",
+        "symptoms": [
+            "vomiting",
+            "sunken_eyes",
+            "dehydration",
+            "diarrhoea"
+        ],
+        "summary": "Gastroenteritis, also known as infectious diarrhea, is an inflammation of the gastrointestinal tract including the stomach and intestine. Symptoms may include diarrhea, vomiting, and abdominal pain. Fever, lack of energy, and dehydration may also occur. This typically lasts less than two weeks. Although it is not related to influenza, in Canada and the United States it is often referred to as \"stomach flu\".\nGastroenteritis is usually caused by viruses; however, gut bacteria, parasites, and fungi",
+        "cause": "Viruses (particularly rotavirus (in children) and norovirus (in adults)) and the bacteria Escherichia coli and Campylobacter species are the primary causes of gastroenteritis. There are, however, many other infectious agents that can cause this syndrome including parasites and fungi. Non-infectious causes are seen on occasion, but they are less likely than a viral or bacterial cause. Risk of infection is higher in children due to their lack of immunity. Children are also at higher risk because t",
+        "treatments": [
+            "Gastroenteritis is usually an acute and self-limiting disease that does not require medication. The preferred treatment in those with mild to moderate dehydration is oral rehydration therapy (ORT). For children at risk of dehydration from vomiting, taking a single dose of the anti vomiting medication metoclopramide or ondansetron, may be helpful, and butylscopolamine is useful in treating abdominal pain."
+        ],
+        "emotional_support": "",
+        "qa_pairs": [],
+        "sources": [
+            "kaggle_disease_symptoms_patient_profile",
+            "wikipedia"
+        ]
+    },
+    {
+        "disease": "Bronchial Asthma",
+        "symptoms": [
+            "fatigue",
+            "cough",
+            "high_fever",
+            "breathlessness",
+            "family_history",
+            "mucoid_sputum"
+        ],
+        "summary": "Asthma is a common long-term inflammatory disease of the bronchioles of the lungs. It is characterized by variable and recurring symptoms, reversible airflow obstruction, and easily triggered bronchospasms. Symptoms include episodes of wheezing, coughing, chest tightness, and shortness of breath. A sudden worsening of asthma symptoms sometimes called an 'asthma attack' or an 'asthma exacerbation' can occur when allergens, pollen, dust, or other particles, are inhaled into the lungs, causing the ",
+        "cause": "Asthma is caused by a combination of complex and incompletely understood environmental and genetic interactions. These influence both its severity and its responsiveness to treatment. It is believed that the recent increased rates of asthma are due to changing epigenetics (heritable factors other than those related to the DNA sequence) and a changing living environment. Asthma that starts before the age of 12 years old is more likely due to genetic influence, while onset after age 12 is more lik",
+        "treatments": [
+            "While there is no cure for asthma, symptoms can typically be improved. The most effective treatment for asthma is identifying triggers, such as cigarette smoke, use of electronic cigarettes, pets or other allergens, and eliminating exposure to them. If trigger avoidance is insufficient, the use of medication is recommended. Pharmaceutical drugs are selected based on, among other things, the severity of illness and the frequency of symptoms. Specific medications for asthma are broadly classified into fast-acting and long-acting categories. The medications listed below have demonstrated efficacy in improving asthma symptoms; however, real world use-effectiveness is limited as around half of people with asthma worldwide remain sub-optimally controlled, even when treated. People with asthma may remain sub-optimally controlled either because optimum doses of asthma medications do not work (called \"refractory\" asthma) or because individuals are either unable (e.g. inability to afford treatment, poor inhaler technique) or unwilling (e.g., wish to avoid side effects of corticosteroids) to take optimum doses of prescribed asthma medications (called \"difficult to treat\" asthma). In practice, it is not possible to distinguish \"refractory\" from \"difficult to treat\" categories for patients who have never taken optimum doses of asthma medications. A related issue is that the asthma efficacy trials upon which the pharmacological treatment guidelines are based have systematically excluded the majority of people with asthma. For example, asthma efficacy treatment trials always exclude otherwise eligible people who smoke, and smoking diminishes the efficacy of inhaled corticosteroids, the mainstay of asthma control management.\nBronchodilators are recommended for short-term relief of symptoms. In those with occasional attacks, no other medication is needed. If mild persistent disease is present (more than two attacks a week), low-dose inhaled corticosteroids or alternatively, a leukotriene antagonist or a mast cell stabilizer by mouth is recommended. For those who have daily attacks, a higher dose of inhaled corticosteroids is used. In a moderate or severe exacerbation, corticosteroids by mouth are added to these treatments.\nPeople with asthma have higher rates of anxiety, psychological stress, and depression. This is associated with poorer asthma control. Cognitive behavioural therapy may improve quality of life, asthma control, and anxiety levels in people with asthma.\nImproving people's knowledge about asthma and using a written action plan has been identified as an important component of managing asthma. Providing educational sessions that include information specific to a person's culture is likely effective. More research is necessary to determine if increasing preparedness and knowledge of asthma among school staff and families using home-based and school interventions results in long-term improvements in safety for children with asthma. School-based asthma self-management interventions, which attempt to improve knowledge of asthma, its triggers, and the importance of regular practitioner review, may reduce hospital admissions and emergency department visits. These interventions may also reduce the number of days children experience asthma symptoms and may lead to small improvements in asthma-related quality of life. More research is necessary to determine if shared decision-making helps manage adults with asthma or if a personalized asthma action plan is effective and necessary. Some people with asthma use pulse oximeters to monitor their own blood oxygen levels during an asthma attack. However, there is no evidence regarding the use in these instances."
+        ],
+        "emotional_support": "",
+        "qa_pairs": [],
+        "sources": [
+            "kaggle_disease_symptoms_patient_profile",
+            "wikipedia"
+        ]
+    },
+    {
+        "disease": "Hypertension",
+        "symptoms": [
+            "headache",
+            "chest_pain",
+            "dizziness",
+            "loss_of_balance",
+            "lack_of_concentration"
+        ],
+        "summary": "Hypertension, also known as high blood pressure, is a long-term medical condition in which the blood pressure in the arteries is persistently elevated. High blood pressure usually does not cause symptoms itself. It is, however, a major risk factor for stroke, coronary artery disease, heart failure, atrial fibrillation, peripheral arterial disease, vision loss, chronic kidney disease, and dementia. Hypertension is a major cause of premature death worldwide.\nHigh blood pressure is classified as pr",
+        "cause": "",
+        "treatments": [
+            "According to one review published in 2003, reduction of the blood pressure by 5 mmHg can decrease the risk of stroke by 34%, of ischemic heart disease by 21%, and reduce the likelihood of dementia, heart failure, and mortality from cardiovascular disease."
+        ],
+        "emotional_support": "",
+        "qa_pairs": [],
+        "sources": [
+            "kaggle_disease_symptoms_patient_profile",
+            "wikipedia"
+        ]
+    },
+    {
+        "disease": "Migraine",
+        "symptoms": [
+            "acidity",
+            "indigestion",
+            "headache",
+            "blurred_and_distorted_vision",
+            "excessive_hunger",
+            "stiff_neck",
+            "depression",
+            "irritability",
+            "visual_disturbances"
+        ],
+        "summary": "Migraine (UK: , US: ) is a complex neurological disorder characterized by episodes of moderate-to-severe headache, most often unilateral and generally associated with nausea, light sensitivity and sound sensitivity. Other symptoms may include vomiting, unusual pain, dizziness, and cognitive dysfunction. Some people with migraine experience aura, a period of sensory disturbance at the onset of a migraine attack.\nAlthough primarily considered to be a headache disorder, migraine is highly varied in",
+        "cause": "Migraine is believed to result from a mix of genetic, environmental, and neurological factors. Migraine runs in families, with heritability estimates of  34\u201364%, but this rarely reflects a single gene defect. Rather, a variety of genetic factors may relate to neuronal, vascular and other systems, and create genetic susceptibility. Migraine often occurs with conditions such as depression, anxiety, and bipolar disorder, which may have a bidirectional relationship (either one can worsen the other).",
+        "treatments": [
+            "Management of migraine includes both prevention of migraine attacks and acute treatment. Preventive (prophylactic) treatment can be given in the absence of a headache to reduce the frequency and severity of future attacks. Acute (abortive) treatment attempts to diminish or reverse the progression of a headache that has already started. Measures for reducing and avoiding triggers may also be beneficial.    Headache tracking, using a headache diary or smartphone app, is a standard self-management tool used to monitor migraineurs' frequency of headache occurrence, associated symptoms or triggers, and effects of treatments.\nA migraine management plan often includes lifestyle modifications to cope with migraine triggers and reduce the impact of comorbidities.  \nRecommended lifestyle modifications promote maintaining a consistent lifestyle, through regular sleep patterns, regular eating, staying hydrated, managing stress, engaging in moderate exercise, and maintaining a healthy body weight.  Avoiding dietary triggers and caffeine overuse may also be recommended lifestyle modifications. Data suggests that sleep modification may be particularly helpful in reducing migraine frequency for adults with chronic migraines.\nBehavioral techniques that have been utilized in the treatment of migraines include Cognitive Behavioral Therapy (CBT), relaxation training, biofeedback, Acceptance and Commitment Therapy (ACT), as well as mindfulness-based therapies. A 2024 systematic literature review and meta analysis found evidence that treatments such as CBT, relaxation training, ACT, and mindfulness-based therapies can reduce migraine frequency both on their own and in combination with other treatment options. In addition, it was found that relaxation therapy aided in the lessening of migraine frequency when compared to education by itself. Similarly, for children and adolescents, CBT and biofeedback strategies are effective in decreasing of frequency and intensity of migraines. These techniques often include relaxation methods and promotion of long-term management without medication side effects, which is emphasized for younger individuals.\nA variety of possible diets have been proposed, including ketogenic diet, Mediterranean diet, DASH diet, and high intakes of fruits, vegetables, legumes, and oil seeds. Further research is needed to examine whether and when dietary interventions are beneficial to migraineurs. Interventions such as transcranial magnetic stimulation and transcutaneous supraorbital nerve stimulation require further research.\nAcute treatments are most effective when administered early in an attack. \nInitial recommended treatment for acute mild to moderate attacks is with over-the-counter (OTC) medications such as ibuprofen (Advil, Motrin) and paracetamol (acetaminophen, Tylenol) for pain.  Triptans are recommended as a first-line therapy for moderate to severe attacks. The approval of CGRP inhibitors (gepants) is seen as a major advance in migraine treatment. According to the American Headache Society, CGRP targeting therapies are a first-line option for migraine prevention. Anti-nausea medications are used as a second-line treatment for migraine-related nausea. Ergotamines may be used by those experiencing headaches that do not respond to over-the-counter pain medications. Opioids should not be prescribed, as higher  doses of opioids are linked to medication overuse headache (MOH) and increased risk of progression from episodic to chronic migraines.\nSystematic review and network meta analysis comparing the effectiveness of medications for acute migraine attacks in adults suggest that triptans, ditans, and gepants are all associated with reduced pain after 2 hours, with triptans being the most successful in reducing pain. Gepants were the least likely to involve adverse events, with some triptans having a higher risk than gepants, and ditans having the highest risk among all treatments.\nPreventive medications may be recommended for those experiencing frequent or severe migraines. Preventive medications include beta blockers, topiramate, and calcitonin gene related peptides (CGRP) inhibitors like erenumab and galcanezumab, which have demonstrated significant efficacy in clinical studies. Prokinetic antiemetics are used as adjunctives for patients with nausea and/or vomiting. Corticosteroids such as dexamethasone have been used to treat patients with status migrainosus, severe baseline disability, or refractory or recurrent headaches."
+        ],
+        "emotional_support": "",
+        "qa_pairs": [],
+        "sources": [
+            "kaggle_disease_symptoms_patient_profile",
+            "wikipedia"
+        ]
+    },
+    {
+        "disease": "Cervical spondylosis",
+        "symptoms": [
+            "back_pain",
+            "weakness_in_limbs",
+            "neck_pain",
+            "dizziness",
+            "loss_of_balance"
+        ],
+        "summary": "Spondylosis is the degeneration of the vertebral column from any cause. In the more narrow sense, it refers to spinal osteoarthritis, the age-related degeneration of the spinal column, which is the most common cause of spondylosis. The degenerative process in osteoarthritis chiefly affects the vertebral bodies, the neural foramina and the facet joints (facet syndrome). If severe, it may cause pressure on the spinal cord or nerve roots with subsequent sensory or motor disturbances, such as pain, ",
+        "cause": "Congenital cervical spine stenosis commonly occurs due to short pedicles (that form the vertebral arch). When the spinal canal diameter divided by vertebral body diameter is less than 0.82, or the anteroposterior diameter of the spinal canal is less than 1.3 cm or the distance between the pedicles is less than 2.3 cm during imaging, cervical spine stenosis is diagnosed symptoms correlate well with the spinal canal narrowings. This is because some patients may not have any symptoms at all even wh",
+        "treatments": [
+            "Many of the treatments for cervical spondylosis have not been subjected to rigorous, controlled trials. Surgery is advocated for cervical radiculopathy in patients who have intractable pain, progressive symptoms, or weakness that fails to improve with conservative therapy. Surgical indications for cervical spondylosis with myelopathy (CSM) remain somewhat controversial, but \"most clinicians recommend operative therapy over conservative therapy for moderate-to-severe myelopathy\".\nPhysical therapy may be effective for restoring range of motion, flexibility and core strengthening. Decompressive therapies (i.e., manual mobilization, mechanical traction) may also help alleviate pain. A  meta analysis published in 2024 on neck pain, reported that educating patients on the neuroscience behind pain along with doing exercises significantly reduced neck pain in patients. However, physical therapy and osteopathy cannot \"cure\" the degeneration, and some people view that strong compliance with postural modification is necessary to realize maximum benefit from decompression, adjustments and flexibility rehabilitation.\nNoninvasive treatment options specifically for lumbar spondylosis can include transcutaneous electrical nerve stimulation, which involves electrodes being attached to the skin and it sending electrical impulses to alleviate pain. Another option is to use a brace for a lumbar support and to minimize unnecessary harmful movements while promoting good posture. Heat and massage can temporarily alleviate symptoms, too."
+        ],
+        "emotional_support": "",
+        "qa_pairs": [],
+        "sources": [
+            "kaggle_disease_symptoms_patient_profile",
+            "wikipedia"
+        ]
+    },
+    {
+        "disease": "Paralysis (brain hemorrhage)",
+        "symptoms": [
+            "vomiting",
+            "headache",
+            "weakness_of_one_body_side",
+            "altered_sensorium"
+        ],
+        "summary": "Intracerebral hemorrhage (ICH), also known as hemorrhagic stroke, is a sudden bleeding into the tissues of the brain (i.e. the parenchyma), into its ventricles, or into both. An ICH is a type of bleeding within the skull and one kind of stroke (ischemic stroke being the other). Symptoms can vary dramatically depending on the severity (how much blood), acuity (over what timeframe), and location (anatomically) but can include headache, one-sided weakness, numbness, tingling, or paralysis, speech p",
+        "cause": "",
+        "treatments": [],
+        "emotional_support": "",
+        "qa_pairs": [],
+        "sources": [
+            "kaggle_disease_symptoms_patient_profile",
+            "wikipedia"
+        ]
+    },
+    {
+        "disease": "Jaundice",
+        "symptoms": [
+            "itching",
+            "vomiting",
+            "fatigue",
+            "weight_loss",
+            "high_fever",
+            "yellowish_skin",
+            "dark_urine",
+            "abdominal_pain"
+        ],
+        "summary": "Jaundice, also known as icterus, is a yellowish or, less frequently, greenish pigmentation of the skin and sclera due to high bilirubin levels. Jaundice in adults typically indicates the presence of underlying diseases involving abnormal heme metabolism, liver dysfunction, or biliary-tract obstruction. The prevalence of jaundice in adults is rare, while jaundice in babies is common, with an estimated 80% affected during their first week of life. The most commonly associated symptoms of jaundice ",
+        "cause": "Jaundice is a sign indicating the presence of an underlying diseases involving abnormal bilirubin metabolism, liver dysfunction, or biliary-tract obstruction. In general, jaundice is present when blood levels of bilirubin exceed 3 mg/dl. Jaundice is classified into three categories, depending on which part of the physiological mechanism the pathology affects. The three categories are:",
+        "treatments": [
+            "Treatment of jaundice varies depending on the underlying cause. If a bile duct blockage is present, surgery is typically required; otherwise, management is pharmacological."
+        ],
+        "emotional_support": "",
+        "qa_pairs": [],
+        "sources": [
+            "kaggle_disease_symptoms_patient_profile",
+            "wikipedia"
+        ]
+    },
+    {
+        "disease": "Malaria",
+        "symptoms": [
+            "chills",
+            "vomiting",
+            "high_fever",
+            "sweating",
+            "headache",
+            "nausea",
+            "muscle_pain"
+        ],
+        "summary": "Malaria is a mosquito-borne infectious disease that affects vertebrates and Anopheles mosquitoes. Human malaria causes symptoms that typically include fever, fatigue, vomiting, and headaches. In severe cases, it can cause jaundice, seizures, coma, or death. Symptoms usually begin 10 to 15 days after being bitten by an infected Anopheles mosquito. If not properly treated, people may have recurrences of the disease months later. In those who have recently survived an infection, reinfection usually",
+        "cause": "Malaria is caused by infection with parasites in the genus Plasmodium. In humans, malaria is caused by six Plasmodium species: P. falciparum, P. malariae, P. ovale curtisi, P. ovale wallikeri, P. vivax and P. knowlesi. Among those infected, P. falciparum is the most common species identified (~75%) followed by P. vivax (~20%). Although P. falciparum traditionally accounts for the majority of deaths, recent evidence suggests that P. vivax malaria is associated with potentially life-threatening co",
+        "treatments": [
+            "Malaria is treated with antimalarial medications; the ones used depend on the type and severity of the disease, the patient's weight and other medical factors. While medications against fever are commonly used, their effects on outcomes are not clear. Providing free antimalarial drugs to households may reduce childhood deaths when used appropriately. Programmes which presumptively treat all causes of fever with antimalarial drugs may lead to overuse of antimalarials and undertreat other causes of fever. Nevertheless, the use of malaria rapid-diagnostic kits can help to reduce over-usage of antimalarials."
+        ],
+        "emotional_support": "",
+        "qa_pairs": [],
+        "sources": [
+            "kaggle_disease_symptoms_patient_profile",
+            "wikipedia"
+        ]
+    },
+    {
+        "disease": "Chicken pox",
+        "symptoms": [
+            "itching",
+            "skin_rash",
+            "fatigue",
+            "lethargy",
+            "high_fever",
+            "headache",
+            "loss_of_appetite",
+            "mild_fever",
+            "swelled_lymph_nodes",
+            "malaise",
+            "red_spots_over_body"
+        ],
+        "summary": "Chickenpox, also known as varicella (  VARR-iss-EL-\u0259), is a highly contagious disease caused by varicella zoster virus (VZV), a member of the herpesvirus family. The disease results in a characteristic skin rash that forms small, itchy blisters, which eventually scab over. It usually starts on the chest, back, and face. It then spreads to the rest of the body. The rash and other symptoms, such as fever, tiredness, and headaches, usually last five to seven days. Complications may occasionally inc",
+        "cause": "",
+        "treatments": [
+            "Treatment mainly consists of easing the symptoms. As a protective measure, people are usually required to stay at home while they are infectious to avoid spreading the disease to others. Cutting the fingernails short or wearing gloves may prevent scratching and minimize the risk of secondary infections.\nAlthough there have been no formal clinical studies evaluating the effectiveness of topical application of calamine lotion (a topical barrier preparation containing zinc oxide, and one of the most commonly used interventions), it has an excellent safety profile. Maintaining good hygiene and daily cleaning of skin with warm water can help to avoid secondary bacterial infection; scratching may increase the risk of secondary infection.\nParacetamol (acetaminophen) but not aspirin may be used to reduce fever. Aspirin use by someone with chickenpox may cause serious, sometimes fatal disease of the liver and brain, Reye syndrome. People at risk of developing severe complications who have had significant exposure to the virus may be given intra-muscular varicella zoster immune globulin (VZIG), a preparation containing high titres of antibodies to varicella zoster virus, to ward off the disease.\nAntivirals are sometimes used."
+        ],
+        "emotional_support": "",
+        "qa_pairs": [],
+        "sources": [
+            "kaggle_disease_symptoms_patient_profile",
+            "wikipedia"
+        ]
+    },
+    {
+        "disease": "Dengue",
+        "symptoms": [
+            "skin_rash",
+            "chills",
+            "joint_pain",
+            "vomiting",
+            "fatigue",
+            "high_fever",
+            "headache",
+            "nausea",
+            "loss_of_appetite",
+            "pain_behind_the_eyes",
+            "back_pain",
+            "muscle_pain",
+            "red_spots_over_body"
+        ],
+        "summary": "Dengue fever is a mosquito-borne disease caused by dengue virus, prevalent in tropical and subtropical areas. Most cases of dengue fever are either asymptomatic or manifest mild symptoms. Symptoms typically begin 3 to 14 days after infection. They may include a high fever, headache, vomiting, muscle and joint pains, and a characteristic skin itching and skin rash. Recovery generally takes two to seven days. In a small proportion of cases, the disease develops into severe dengue (previously known",
+        "cause": "",
+        "treatments": [
+            "As of July 2024, there is no specific antiviral treatment available for dengue fever.\nMost cases of dengue fever have mild symptoms, and recovery takes place in a few days. No treatment is required for these cases. Acetaminophen (Paracetamol, Tylenol) may be used to relieve mild fever or pain. Other common pain relievers, including aspirin, ibuprofen (Advil, Motrin IB, others) and naproxen sodium (Aleve) should be avoided as they can increase the risk of bleeding complications.\nFor moderate illness, those who can drink, are passing urine, have no warning signs and are otherwise reasonably healthy can be monitored carefully at home. Supportive care with analgesics, fluid replacement, and bed rest are recommended.\nSevere dengue is a life-threatening emergency, requiring hospitalization and potentially intensive care. Warning signs include dehydration, decreasing platelets and increasing hematocrit. Treatment modes include intravenous fluids, and transfusion with platelets or plasma."
+        ],
+        "emotional_support": "",
+        "qa_pairs": [],
+        "sources": [
+            "kaggle_disease_symptoms_patient_profile",
+            "wikipedia"
+        ]
+    },
+    {
+        "disease": "Typhoid",
+        "symptoms": [
+            "chills",
+            "vomiting",
+            "fatigue",
+            "high_fever",
+            "nausea",
+            "constipation",
+            "abdominal_pain",
+            "diarrhoea",
+            "toxic_look_(typhos)",
+            "belly_pain"
+        ],
+        "summary": "Typhoid fever, also known as typhoid, is a disease caused by Salmonella enterica serotype Typhi bacteria, also called Salmonella typhi. Symptoms vary from mild to severe, and usually begin six to 30 days after exposure. Often there is a gradual onset of a high fever over several days. This is commonly accompanied by weakness, abdominal pain, constipation, headaches, and mild vomiting. Some people develop a skin rash with rose colored spots. In severe cases, people may experience confusion. Witho",
+        "cause": "",
+        "treatments": [
+            "Treatment for typhoid fever is most effective if started early."
+        ],
+        "emotional_support": "",
+        "qa_pairs": [],
+        "sources": [
+            "kaggle_disease_symptoms_patient_profile",
+            "wikipedia"
+        ]
+    },
+    {
+        "disease": "hepatitis A",
+        "symptoms": [
+            "joint_pain",
+            "vomiting",
+            "yellowish_skin",
+            "dark_urine",
+            "nausea",
+            "loss_of_appetite",
+            "abdominal_pain",
+            "diarrhoea",
+            "mild_fever",
+            "yellowing_of_eyes",
+            "muscle_pain"
+        ],
+        "summary": "Hepatitis A is an infectious liver disease caused by Hepatitis A virus (HAV); it is a type of viral hepatitis. Many cases have few or no symptoms, especially in the young. The time between exposure and symptoms, in those who develop them, is two to six weeks. When symptoms occur, they typically last eight weeks and may include nausea, vomiting, diarrhea, jaundice, fever, and abdominal pain. Around 10\u201315% of people experience a recurrence of symptoms during the six months after the initial infect",
+        "cause": "",
+        "treatments": [
+            "No specific treatment for hepatitis A is known. Recovery from symptoms following infection may take several weeks or months. Therapy is aimed at maintaining comfort and adequate nutritional balance, including replacement of fluids lost from vomiting and diarrhea."
+        ],
+        "emotional_support": "",
+        "qa_pairs": [],
+        "sources": [
+            "kaggle_disease_symptoms_patient_profile",
+            "wikipedia"
+        ]
+    },
+    {
+        "disease": "Hepatitis B",
+        "symptoms": [
+            "itching",
+            "fatigue",
+            "lethargy",
+            "yellowish_skin",
+            "dark_urine",
+            "loss_of_appetite",
+            "abdominal_pain",
+            "yellow_urine",
+            "yellowing_of_eyes",
+            "malaise",
+            "receiving_blood_transfusion",
+            "receiving_unsterile_injections"
+        ],
+        "summary": "Hepatitis B is an infectious disease caused by the hepatitis B virus (HBV) that affects the liver; it is a type of viral hepatitis. It can cause both acute and chronic infection.\nMany people have no symptoms after exposure. For others, symptoms may appear 30 to 180 days after exposure and can include a rapid onset of sickness with nausea, vomiting, yellowish skin, fatigue, yellow urine, and abdominal pain. Symptoms during acute infection typically last for a few weeks, though some people may fee",
+        "cause": "",
+        "treatments": [
+            "Acute hepatitis B infection does not usually require treatment and most adults clear the infection spontaneously. Early antiviral treatment may be required in fewer than 1% of people, whose infection takes a very aggressive course (fulminant hepatitis) or who are immunocompromised. On the other hand, treatment of chronic infection may be necessary to reduce the risk of cirrhosis and liver cancer. Chronically infected individuals with persistently elevated serum alanine aminotransferase, a marker of liver damage, and HBV DNA levels are candidates for therapy. Treatment lasts from six months to a year, depending on medication and genotype. Treatment duration when medication is taken by mouth, however, is more variable and usually longer than one year.\nAlthough none of the available medications can clear the infection, they can stop the virus from replicating, thus minimizing liver damage. As of 2024, there are seven medications licensed for the treatment of hepatitis B infection in the United States. These include antiviral medications lamivudine, adefovir, tenofovir disoproxil, tenofovir alafenamide, telbivudine, and entecavir, and the two immune system modulators interferon alpha-2a and PEGylated interferon alpha-2a. In 2015, the World Health Organization recommended tenofovir or entecavir as first-line agents. Those with current cirrhosis are in most need of treatment.\nThe use of interferon, which requires injections daily or thrice weekly, has been supplanted by long-acting PEGylated interferon, which is injected only once weekly. However, some individuals are much more likely to respond than others, and this might be because of the genotype of the infecting virus or the person's heredity. The treatment reduces viral replication in the liver, thereby reducing the viral load (the amount of virus particles as measured in the blood). Response to treatment differs between the genotypes. Interferon treatment may produce an e antigen seroconversion rate of 37% in genotype A but only a 6% seroconversion in type D. Genotype B has similar seroconversion rates to type A while type C seroconverts only in 15% of cases. Sustained e antigen loss after treatment is ~45% in types A and B but only 25\u201330% in types C and D.\nIt seems unlikely that the disease will be eliminated by 2030, the goal set in 2016 by WHO. However, progress is being made in developing therapeutic treatments. In 2010, the Hepatitis B Foundation reported that 3 preclinical and 11 clinical-stage drugs were under development, based on largely similar mechanisms. In 2020, they reported that there were 17 preclinical- and 32 clinical-stage drugs under development, using diverse mechanisms."
+        ],
+        "emotional_support": "",
+        "qa_pairs": [],
+        "sources": [
+            "kaggle_disease_symptoms_patient_profile",
+            "wikipedia"
+        ]
+    },
+    {
+        "disease": "Hepatitis C",
+        "symptoms": [
+            "fatigue",
+            "yellowish_skin",
+            "nausea",
+            "loss_of_appetite",
+            "family_history"
+        ],
+        "summary": "Hepatitis C is an infectious disease caused by the hepatitis C virus (HCV) that primarily affects the liver; it is a type of viral hepatitis. During the initial infection period, people often have mild or no symptoms. Early symptoms can include fever, dark urine, abdominal pain, and jaundice. The virus persists in the liver, becoming chronic, in about 70% of those initially infected. Early on, chronic infection typically has no symptoms. Over many years however, it often leads to liver disease a",
+        "cause": "",
+        "treatments": [
+            "Those with chronic hepatitis C are advised to avoid alcohol and medications that are toxic to the liver. They should also be vaccinated against hepatitis A and hepatitis B due to the increased risk if also infected. Use of acetaminophen is generally considered safe at reduced doses. Nonsteroidal anti-inflammatory drugs (NSAIDs) are not recommended in those with advanced liver disease due to an increased risk of bleeding. Ultrasound surveillance for hepatocellular carcinoma is recommended in those with accompanying cirrhosis. Regular, moderate coffee consumption, especially caffeinated, has been associated with a slower rate of liver scarring in those infected with HCV."
+        ],
+        "emotional_support": "",
+        "qa_pairs": [],
+        "sources": [
+            "kaggle_disease_symptoms_patient_profile",
+            "wikipedia"
+        ]
+    },
+    {
+        "disease": "Hepatitis D",
+        "symptoms": [
+            "joint_pain",
+            "vomiting",
+            "fatigue",
+            "yellowish_skin",
+            "dark_urine",
+            "nausea",
+            "loss_of_appetite",
+            "abdominal_pain",
+            "yellowing_of_eyes"
+        ],
+        "summary": "Hepatitis D is a type of viral hepatitis caused by the hepatitis delta virus (HDV). HDV is one of five known hepatitis viruses: A, B, C, D, and E. HDV is considered to be a satellite (a type of subviral agent) because it can propagate only in the presence of the hepatitis B virus (HBV). Transmission of HDV can occur either via simultaneous infection with HBV (coinfection) or superimposed on chronic hepatitis B or hepatitis B carrier state (superinfection).\nHDV infecting a person with chronic hep",
+        "cause": "",
+        "treatments": [
+            "Current established treatments for chronic hepatitis D include conventional or pegylated interferon alpha therapy. Evidence suggests that pegylated interferon alpha is effective in reducing the viral load and the effect of the disease during the time the drug is given, but the benefit generally stops if the drug is discontinued. The efficiency of this treatment does not usually exceed about 20%, and late relapse after therapy has been reported.\nIn May 2020, the Committee for Medicinal Products for Human Use of the European Medicines Agency approved the antiviral Hepcludex (bulevirtide) to treat hepatitis D. Bulevirtide binds and inactivates the sodium/bile acid cotransporter, blocking hepatitis D virus (as well as hepatitis B virus) from entering hepatocytes. Bulevirtide may be given with pegylated interferon alpha as the two are thought to have a synergistic effect, leading to greater treatment response rates.\nIn patients with HDV-related compensated cirrhosis and clinically significant portal hypertension, the treatment with (bulevirtide) was safe, well tolerated and has led to a significant improvement in biochemical variables and an increase in liver function parameters.\nOther treatments for hepatitis D which are currently under development include pegylated interferon lambda (\u03bb), which binds to receptors on the hepatocyte surface leading to an intracellular signaling cascade via the JAK-STAT signaling pathway and activation of anti-viral cell mediated immunity. The prenylation inhibitor lonafarnib prevents hepatitis D viral particle assembly by inhibiting the farnesylation of the L-HDAg. REP2139-Ca is a nucleic acid polymer that prevents the release of hepatitis B surface antigen (which is required for assembly of hepatitis D viral particles)."
+        ],
+        "emotional_support": "",
+        "qa_pairs": [],
+        "sources": [
+            "kaggle_disease_symptoms_patient_profile",
+            "wikipedia"
+        ]
+    },
+    {
+        "disease": "Hepatitis E",
+        "symptoms": [
+            "joint_pain",
+            "vomiting",
+            "fatigue",
+            "high_fever",
+            "yellowish_skin",
+            "dark_urine",
+            "nausea",
+            "loss_of_appetite",
+            "abdominal_pain",
+            "yellowing_of_eyes",
+            "coma",
+            "stomach_bleeding"
+        ],
+        "summary": "Hepatitis E is inflammation of the liver caused by infection with the hepatitis E virus (HEV); it is a type of viral hepatitis. Hepatitis E has mainly a fecal-oral transmission route that is similar to hepatitis A, although the viruses are unrelated. HEV is a positive-sense, single-stranded, nonenveloped, RNA icosahedral virus and one of five known human hepatitis viruses: A, B, C, D, and E.\nLike hepatitis A, hepatitis E usually follows an acute and self-limiting course of illness (the condition",
+        "cause": "",
+        "treatments": [
+            "There is no drug that has established safety and effectiveness for hepatitis E, and there have been no large randomized clinical trials of antiviral drugs. Reviews of existing small studies suggest that ribavirin can be considered effective in immunocompromised people who have developed chronic infection.\nChronic HEV infection is associated with immunosuppressive therapies, and when that happens in individuals with solid-organ transplantation, reducing immunosuppressive medications can result in clearance of HEV in one third of patients."
+        ],
+        "emotional_support": "",
+        "qa_pairs": [],
+        "sources": [
+            "kaggle_disease_symptoms_patient_profile",
+            "wikipedia"
+        ]
+    },
+    {
+        "disease": "Alcoholic hepatitis",
+        "symptoms": [
+            "vomiting",
+            "yellowish_skin",
+            "abdominal_pain",
+            "swelling_of_stomach",
+            "distention_of_abdomen",
+            "history_of_alcohol_consumption",
+            "fluid_overload"
+        ],
+        "summary": "Alcoholic hepatitis is hepatitis (inflammation of the liver) due to excessive intake of alcohol. Patients typically have a history of at least 10 years of heavy alcohol intake, typically 8\u201310 drinks per day. It is usually found in association with fatty liver, an early stage of alcoholic liver disease, and may contribute to the progression of fibrosis, leading to cirrhosis. Symptoms may present acutely after a large amount of alcoholic intake in a short time period, or after years of excess alco",
+        "cause": "",
+        "treatments": [],
+        "emotional_support": "",
+        "qa_pairs": [],
+        "sources": [
+            "kaggle_disease_symptoms_patient_profile",
+            "wikipedia"
+        ]
+    },
+    {
+        "disease": "Tuberculosis",
+        "symptoms": [
+            "chills",
+            "vomiting",
+            "fatigue",
+            "weight_loss",
+            "cough",
+            "high_fever",
+            "breathlessness",
+            "sweating",
+            "loss_of_appetite",
+            "mild_fever",
+            "yellowing_of_eyes",
+            "swelled_lymph_nodes",
+            "malaise",
+            "phlegm",
+            "chest_pain",
+            "blood_in_sputum"
+        ],
+        "summary": "Tuberculosis (TB) (RP: tew-BER-kew-loh-sis, also  tew-b\u0259r-kew-LOH-sis), also known colloquially as the \"white death\", or historically as consumption, is a contagious disease usually caused by Mycobacterium tuberculosis (MTB) bacteria. Tuberculosis generally affects the lungs, but it can also affect other parts of the body. Most infections show no symptoms, in which case it is known as inactive or latent tuberculosis. A small proportion of latent infections progress to active disease that, if lef",
+        "cause": "",
+        "treatments": [
+            "Treatment of TB uses antibiotics to kill the bacteria. Effective TB treatment is difficult, due to the unusual structure and chemical composition of the mycobacterial cell wall, which hinders the entry of drugs and makes many antibiotics ineffective."
+        ],
+        "emotional_support": "",
+        "qa_pairs": [],
+        "sources": [
+            "kaggle_disease_symptoms_patient_profile",
+            "wikipedia"
+        ]
+    },
+    {
+        "disease": "Common Cold",
+        "symptoms": [
+            "continuous_sneezing",
+            "chills",
+            "fatigue",
+            "cough",
+            "high_fever",
+            "headache",
+            "swelled_lymph_nodes",
+            "malaise",
+            "phlegm",
+            "throat_irritation",
+            "redness_of_eyes",
+            "sinus_pressure",
+            "runny_nose",
+            "congestion",
+            "chest_pain",
+            "loss_of_smell",
+            "muscle_pain"
+        ],
+        "summary": "The common cold, or the cold, is a viral infectious disease of the upper respiratory tract that primarily affects the respiratory mucosa of the nose, throat, sinuses, and larynx. Signs and symptoms may appear in as little as two days after exposure to the virus. These may include coughing, sore throat, runny nose, sneezing, headache, fatigue, and fever. People usually recover in seven to ten days, but some symptoms may last up to three weeks. Occasionally, those with other health problems may de",
+        "cause": "",
+        "treatments": [
+            "Treatments of the common cold primarily involve medications and other therapies for symptomatic relief. Getting plenty of rest, drinking fluids to maintain hydration, and gargling with warm salt water are reasonable conservative measures. Much of the benefit from symptomatic treatment is, however, attributed to the placebo effect. As of 2010, no medications or herbal remedies had been conclusively demonstrated to shorten the duration of infection."
+        ],
+        "emotional_support": "",
+        "qa_pairs": [],
+        "sources": [
+            "kaggle_disease_symptoms_patient_profile",
+            "wikipedia"
+        ]
+    },
+    {
+        "disease": "Pneumonia",
+        "symptoms": [
+            "chills",
+            "fatigue",
+            "cough",
+            "high_fever",
+            "breathlessness",
+            "sweating",
+            "malaise",
+            "chest_pain",
+            "fast_heart_rate",
+            "rusty_sputum"
+        ],
+        "summary": "Pneumonia is an inflammatory condition of the lung primarily affecting the small air sacs known as alveoli. Symptoms typically include some combination of productive or dry cough, chest pain, fever, and difficulty breathing. The severity of the condition is variable.\nPneumonia is usually caused by infection with viruses or bacteria, and less commonly by other microorganisms. Identifying the responsible pathogen can be difficult. Diagnosis is often based on symptoms and physical examination. Ches",
+        "cause": "Pneumonia is due to infections caused primarily by bacteria or viruses and less commonly by fungi and parasites. Although more than 100 strains of infectious agents have been identified, only a few are responsible for the majority of cases. Mixed infections with both viruses and bacteria may occur in roughly 45% of infections in children and 15% of infections in adults. A causative agent may not be isolated in about half of cases despite careful testing. In an active population-based surveillanc",
+        "treatments": [
+            "Antibiotics by mouth, rest, simple analgesics, and fluids usually suffice for complete resolution. Antibiotics therapy for children aged 2 to 59 months with non\u2010severe pneumonia with wheeze may reduce of treatment failure by 20%, however results in little or no difference to clinical cure, in little or no difference to relapse, and treatment harms. However, those with other medical conditions, the elderly, or those with significant trouble breathing may require more advanced care. If the symptoms worsen, the pneumonia does not improve with home treatment, or complications occur, hospitalization may be required. Worldwide, approximately 7\u201313% of cases in children result in hospitalization, whereas in the developed world between 22 and 42% of adults with community-acquired pneumonia are admitted. The CURB-65 score is useful for determining the need for admission in adults. If the score is 0 or 1, people can typically be managed at home; if it is 2, a short hospital stay or close follow-up is needed; if it is 3\u20135, hospitalization is recommended. In children those with respiratory distress or oxygen saturations of less than 90% should be hospitalized. The utility of chest physiotherapy in pneumonia has not yet been determined. Over-the-counter cough medicine has not been found to be effective, nor has the use of zinc supplementation in children. There is insufficient evidence for mucolytics. There is no strong evidence to recommend that children who have non-measles related pneumonia take vitamin A supplements. Vitamin D, as of 2023, is of unclear benefit in children. Vitamin C administration in pneumonia needs further research, despite found lower mortality and reduced severity for most ill patient, although it can be given to patient of low plasma vitamin C because it is not expensive and low risk.\nPneumonia can cause severe illness in a number of ways, and pneumonia with evidence of organ dysfunction may require intensive care unit admission for observation and specific treatment. The main impact is on the respiratory and the circulatory system. Respiratory failure not responding to normal oxygen therapy may require heated humidified high-flow therapy delivered through nasal cannulae, non-invasive ventilation, or in severe cases mechanical ventilation through an endotracheal tube. Regarding circulatory problems as part of sepsis, evidence of poor blood flow or low blood pressure is initially treated with 30 mL/kg of crystalloid infused intravenously. In situations where fluids alone are ineffective, vasopressor medication may be required.\nFor adults with moderate or severe acute respiratory distress syndrome (ARDS) undergoing mechanical ventilation, there is a reduction in mortality when people lie on their front for at least 12 hours a day. However, this increases the risk of endotracheal tube obstruction and pressure sores."
+        ],
+        "emotional_support": "",
+        "qa_pairs": [],
+        "sources": [
+            "kaggle_disease_symptoms_patient_profile",
+            "wikipedia"
+        ]
+    },
+    {
+        "disease": "Dimorphic hemmorhoids(piles)",
+        "symptoms": [
+            "constipation",
+            "pain_during_bowel_movements",
+            "pain_in_anal_region",
+            "bloody_stool",
+            "irritation_in_anus"
+        ],
+        "summary": "",
+        "cause": "",
+        "treatments": [],
+        "emotional_support": "",
+        "qa_pairs": [],
+        "sources": [
+            "kaggle_disease_symptoms_patient_profile",
+            "wikipedia"
+        ]
+    },
+    {
+        "disease": "Heart attack",
+        "symptoms": [
+            "vomiting",
+            "breathlessness",
+            "sweating",
+            "chest_pain"
+        ],
+        "summary": "A myocardial infarction (MI), commonly known as a heart attack, occurs when blood flow decreases or stops in one of the arteries of the heart, causing infarction (tissue death) to the heart muscle. The most common symptom is retrosternal chest pain or discomfort that classically radiates to the left shoulder, arm, or jaw. The pain may occasionally feel like heartburn. This is the dangerous type of acute coronary syndrome.\nOther symptoms may include shortness of breath, nausea, feeling faint, a c",
+        "cause": "",
+        "treatments": [
+            "A myocardial infarction requires immediate medical attention. Treatment aims to preserve as much heart muscle as possible, and to prevent further complications. Treatment depends on whether the myocardial infarction is a STEMI or NSTEMI. Treatment in general aims to unblock blood vessels, reduce blood clot enlargement, reduce ischemia, and modify risk factors with the aim of preventing future MIs. In addition, the main treatment for myocardial infarctions with ECG evidence of ST elevation (STEMI) include thrombolysis or percutaneous coronary intervention, although PCI is also ideally conducted within 1\u20133 days for NSTEMI. In addition to clinical judgement, risk stratification may be used to guide treatment, such as with the TIMI and GRACE scoring systems."
+        ],
+        "emotional_support": "",
+        "qa_pairs": [],
+        "sources": [
+            "kaggle_disease_symptoms_patient_profile",
+            "wikipedia"
+        ]
+    },
+    {
+        "disease": "Varicose veins",
+        "symptoms": [
+            "fatigue",
+            "cramps",
+            "bruising",
+            "obesity",
+            "swollen_legs",
+            "swollen_blood_vessels",
+            "prominent_veins_on_calf"
+        ],
+        "summary": "Varicose veins, also known as varicoses, are a medical condition in which superficial veins become enlarged and twisted. Although usually just a cosmetic ailment, in some cases they cause fatigue, pain, itching, and nighttime leg cramps. These veins typically develop in the legs, just under the skin. Their complications can include bleeding, skin ulcers, and superficial thrombophlebitis. Varices in the scrotum are known as varicocele, while those around the anus are known as hemorrhoids. The phy",
+        "cause": "Varicose veins are more common in women than in men and are linked with heredity. Other related factors are pregnancy, obesity, menopause, aging, prolonged standing, leg injury and abdominal straining. Varicose veins are unlikely to be caused by crossing the legs or ankles. Less commonly, but not exceptionally, varicose veins can be due to other causes, such as post-phlebitic obstruction or incontinence, venous and arteriovenous malformations.\nVenous reflux is a significant cause. Research has a",
+        "treatments": [
+            "Treatment can be either active or conservative."
+        ],
+        "emotional_support": "",
+        "qa_pairs": [],
+        "sources": [
+            "kaggle_disease_symptoms_patient_profile",
+            "wikipedia"
+        ]
+    },
+    {
+        "disease": "Hypothyroidism",
+        "symptoms": [
+            "fatigue",
+            "weight_gain",
+            "cold_hands_and_feets",
+            "mood_swings",
+            "lethargy",
+            "dizziness",
+            "puffy_face_and_eyes",
+            "enlarged_thyroid",
+            "brittle_nails",
+            "swollen_extremeties",
+            "depression",
+            "irritability",
+            "abnormal_menstruation"
+        ],
+        "summary": "Hypothyroidism is an endocrine disease in which the thyroid gland does not produce enough thyroid hormones. It can cause a number of symptoms, such as poor ability to tolerate cold, extreme fatigue, muscle aches, constipation, slow heart rate,  depression, and weight gain. Occasionally there may be swelling of the front part of the neck due to goiter. Untreated cases of hypothyroidism during pregnancy can lead to delays in growth and intellectual development in the baby or congenital iodine defi",
+        "cause": "Hypothyroidism is caused by inadequate function of the gland itself (primary hypothyroidism), inadequate stimulation by thyroid-stimulating hormone from the pituitary gland (secondary hypothyroidism), or inadequate release of thyrotropin-releasing hormone from the brain's hypothalamus (tertiary hypothyroidism). Primary hypothyroidism is about a thousandfold more common than central hypothyroidism. Central hypothyroidism is the name used for secondary and tertiary hypothyroidism since the hypotha",
+        "treatments": [],
+        "emotional_support": "",
+        "qa_pairs": [],
+        "sources": [
+            "kaggle_disease_symptoms_patient_profile",
+            "wikipedia"
+        ]
+    },
+    {
+        "disease": "Hyperthyroidism",
+        "symptoms": [
+            "fatigue",
+            "mood_swings",
+            "weight_loss",
+            "restlessness",
+            "sweating",
+            "diarrhoea",
+            "fast_heart_rate",
+            "excessive_hunger",
+            "muscle_weakness",
+            "irritability",
+            "abnormal_menstruation"
+        ],
+        "summary": "Hyperthyroidism is a endocrine disease in which the thyroid gland produces excessive amounts of thyroid hormones. Thyrotoxicosis is a condition that occurs due to elevated levels of thyroid hormones of any cause and therefore includes hyperthyroidism. Some, however, use the terms interchangeably. Signs and symptoms vary between people and may include irritability, muscle weakness, sleeping problems, a fast heartbeat, heat intolerance, diarrhea, enlargement of the thyroid, hand tremor, and weight",
+        "cause": "There are several causes of hyperthyroidism. Most often, the entire gland is overproducing thyroid hormone. Less commonly, a single nodule is responsible for the excess hormone secretion, called a \"hot\" nodule. Thyroiditis (inflammation of the thyroid) can also cause hyperthyroidism. Functional thyroid tissue producing an excess of thyroid hormone occurs in a number of clinical conditions.\nThe major causes in humans are:\n\nGraves' disease. An autoimmune disease (usually, the most common cause wit",
+        "treatments": [],
+        "emotional_support": "",
+        "qa_pairs": [],
+        "sources": [
+            "kaggle_disease_symptoms_patient_profile",
+            "wikipedia"
+        ]
+    },
+    {
+        "disease": "Hypoglycemia",
+        "symptoms": [
+            "vomiting",
+            "fatigue",
+            "anxiety",
+            "sweating",
+            "headache",
+            "nausea",
+            "blurred_and_distorted_vision",
+            "excessive_hunger",
+            "slurred_speech",
+            "irritability",
+            "palpitations"
+        ],
+        "summary": "Hypoglycemia (American English), also spelled hypoglycaemia or hypoglyc\u00e6mia (British English), sometimes called low blood sugar, is a fall in blood sugar to levels below normal, typically below 70 mg/dL (3.9 mmol/L). Whipple's triad is used to properly identify hypoglycemic episodes. It is defined as blood glucose below 70 mg/dL (3.9 mmol/L), symptoms associated with hypoglycemia, and resolution of symptoms when blood sugar returns to normal. Hypoglycemia may result in headache, tiredness, clums",
+        "cause": "Hypoglycemia is most common in those with diabetes treated by insulin, glinides, and sulfonylureas. Hypoglycemia is rare in those without diabetes, because there are many regulatory mechanisms in place to appropriately balance glucose, insulin, and glucagon.",
+        "treatments": [
+            "After hypoglycemia in a person is identified, rapid treatment is necessary and can be life-saving. The main goal of treatment is to raise blood glucose back to normal levels, which is done through various ways of administering glucose, depending on the severity of the hypoglycemia, what is on-hand to treat, and who is administering the treatment. A general rule used by the American Diabetes Association is the \"15-15 Rule,\" which suggests consuming or administering 15 grams of a carbohydrate, followed by a 15-minute wait and re-measurement of blood glucose level to assess if blood glucose has returned to normal levels."
+        ],
+        "emotional_support": "",
+        "qa_pairs": [],
+        "sources": [
+            "kaggle_disease_symptoms_patient_profile",
+            "wikipedia"
+        ]
+    },
+    {
+        "disease": "Osteoarthristis",
+        "symptoms": [
+            "joint_pain",
+            "neck_pain",
+            "knee_pain",
+            "hip_joint_pain",
+            "swelling_joints",
+            "painful_walking"
+        ],
+        "summary": "Osteoarthritis is a type of degenerative joint disease that results from breakdown of joint cartilage and underlying bone. A form of arthritis, it is believed to be the fourth leading cause of disability in the world, with an estimated 240 million people worldwide having activity-limiting osteoarthritis. The most common symptoms are joint pain and stiffness. Usually the symptoms progress slowly over years. Other symptoms may include joint swelling, decreased range of motion, and, when the back i",
+        "cause": "",
+        "treatments": [],
+        "emotional_support": "",
+        "qa_pairs": [],
+        "sources": [
+            "kaggle_disease_symptoms_patient_profile",
+            "wikipedia"
+        ]
+    },
+    {
+        "disease": "Arthritis",
+        "symptoms": [
+            "muscle_weakness",
+            "stiff_neck",
+            "swelling_joints",
+            "movement_stiffness",
+            "painful_walking"
+        ],
+        "summary": "Arthritis is a general medical term used to describe a disorder in which the smooth cartilagenous layer that lines a joint is lost, resulting in bone grinding on bone during joint movement. Symptoms generally include joint pain and stiffness. Other symptoms may include redness, warmth, swelling, and decreased range of motion of the affected joints. In certain types of arthritis, other organs such as the skin are also affected. Onset can be gradual or sudden.\nThere are several types of arthritis.",
+        "cause": "Several factors contribute to the development of arthritis, differing on the type of arthritis.\nOsteoarthritis occurs from damage to joint cartilage from prior injury or long-term wear-and-tear, resulting in bone-to-bone contact and grinding. The resulting arthritis can occur over years, or be worsened by further injury or infection. If joint cartilage is severely damaged, inflammation and swelling may add to the extent and pain of osteoarthritis.\nIn rheumatoid arthritis, the immune system itsel",
+        "treatments": [
+            "There is no known cure for arthritis and rheumatic diseases. Treatment options vary depending on the type of arthritis and include physical therapy, exercise and diet, orthopedic bracing, and oral and topical medications. Joint replacement surgery may be required to repair damage, restore function, or relieve pain."
+        ],
+        "emotional_support": "",
+        "qa_pairs": [],
+        "sources": [
+            "kaggle_disease_symptoms_patient_profile",
+            "wikipedia"
+        ]
+    },
+    {
+        "disease": "(vertigo) Paroymsal  Positional Vertigo",
+        "symptoms": [
+            "vomiting",
+            "headache",
+            "nausea",
+            "spinning_movements",
+            "loss_of_balance",
+            "unsteadiness"
+        ],
+        "summary": "",
+        "cause": "",
+        "treatments": [],
+        "emotional_support": "",
+        "qa_pairs": [],
+        "sources": [
+            "kaggle_disease_symptoms_patient_profile",
+            "wikipedia"
+        ]
+    },
+    {
+        "disease": "Acne",
+        "symptoms": [
+            "skin_rash",
+            "pus_filled_pimples",
+            "blackheads",
+            "scurring"
+        ],
+        "summary": "Acne, also known as acne vulgaris, is a long-term skin condition that occurs when dead skin cells and oil from the skin clog hair follicles. Typical features of the condition include blackheads or whiteheads, pimples, oily skin, and possible scarring. It primarily affects skin with a relatively high number of oil glands, including the face, upper part of the chest, and back. The resulting appearance can lead to lack of confidence, anxiety, reduced self-esteem, and, in extreme cases, depression o",
+        "cause": "Risk factors for the development of acne, other than genetics, have not been conclusively identified. Possible secondary contributors include hormones, infections, diet, and stress. Studies investigating the impact of smoking on the incidence and severity of acne have been inconclusive. Cleanliness (hygiene) and sunlight are not associated with acne.",
+        "treatments": [
+            "Many different treatments exist for acne. These include alpha hydroxy acid, anti-androgen medications, antibiotics, antiseborrheic medications, azelaic acid, benzoyl peroxide, hormonal treatments, keratolytic soaps, nicotinamide (niacinamide), retinoids, and salicylic acid. Acne treatments work in at least four different ways, including the following: reducing inflammation, hormonal manipulation, killing C. acnes, and normalizing skin cell shedding and sebum production in the pore to prevent blockage. Typical treatments include topical therapies such as antibiotics, benzoyl peroxide, and retinoids, and systemic therapies, including antibiotics, hormonal agents, and oral retinoids.\nRecommended therapies for first-line use in acne vulgaris treatment include topical retinoids, benzoyl peroxide, and topical or oral antibiotics. Procedures such as light therapy and laser therapy are not first-line treatments and typically have only an add on role due to their high cost and limited evidence. Blue light therapy is of unclear benefit. Medications for acne target the early stages of comedo formation and are generally ineffective for visible skin lesions; acne generally improves between eight and twelve weeks after starting therapy.\nPeople often view acne as a short-term condition, some expecting it to disappear after puberty. This misconception can lead to depending on self-management or problems with long-term adherence to treatment. Communicating the long-term nature of the condition and better access to reliable information about acne can help people know what to expect from treatments."
+        ],
+        "emotional_support": "",
+        "qa_pairs": [],
+        "sources": [
+            "kaggle_disease_symptoms_patient_profile",
+            "wikipedia"
+        ]
+    },
+    {
+        "disease": "Urinary tract infection",
+        "symptoms": [
+            "burning_micturition",
+            "bladder_discomfort",
+            "foul_smell_of urine",
+            "continuous_feel_of_urine"
+        ],
+        "summary": "A urinary tract infection (UTI) is an infection that affects a part of the urinary tract. Lower urinary tract infections may involve the bladder (cystitis) or urethra (urethritis) while upper urinary tract infections affect the kidney (pyelonephritis). Symptoms from a lower urinary tract infection include suprapubic pain, painful urination, frequency and urgency of urination despite having an empty bladder. Symptoms of a kidney infection, on the other hand, are more systemic and include fever or",
+        "cause": "Uropathogenic E. coli from the gut is the cause of 80\u201385% of community-acquired urinary tract infections, with Staphylococcus saprophyticus being the cause in 5\u201310%. Rarely they may be due to viral or fungal infections. Healthcare-associated urinary tract infections (mostly related to urinary catheterization) involve a much broader range of pathogens including: E. coli (27%), Klebsiella (11%), Pseudomonas (11%), the fungal pathogen Candida albicans (9%), and Enterococcus (7%) among others. Durin",
+        "treatments": [
+            "The mainstay of treatment is antibiotics. Phenazopyridine is occasionally prescribed during the first few days in addition to antibiotics to help with the burning and urgency sometimes felt during a bladder infection. However, it is not routinely recommended due to safety concerns with its use, specifically an elevated risk of methemoglobinemia (higher than normal level of methemoglobin in the blood). Paracetamol may be used for fevers. There is no good evidence for the use of cranberry products for treating current infections.\nFosfomycin can be used as an effective treatment for both UTIs and complicated UTIs including acute pyelonephritis. The standard regimen for complicated UTIs is an oral 3g dose administered once every 48 or 72 hours for a total of 3 doses or a 6 grams every 8 hours for 7 days to 14 days when fosfomycin is given in IV form.\nGepotidacin was approved for medical use in the United States in March 2025. It is the first new antibiotic approved in the US for UTIs in nearly 30 years."
+        ],
+        "emotional_support": "",
+        "qa_pairs": [],
+        "sources": [
+            "kaggle_disease_symptoms_patient_profile",
+            "wikipedia"
+        ]
+    },
+    {
+        "disease": "Psoriasis",
+        "symptoms": [
+            "skin_rash",
+            "joint_pain",
+            "skin_peeling",
+            "silver_like_dusting",
+            "small_dents_in_nails",
+            "inflammatory_nails"
+        ],
+        "summary": "Psoriasis is a long-lasting, noncontagious autoimmune disease characterized by patches of abnormal skin. These areas are red, pink, or purple, dry, itchy, and scaly. Psoriasis varies in severity from small localized patches to complete body coverage. Injury to the skin can trigger psoriatic skin changes at that spot, which is known as the Koebner phenomenon.\nThe five main types of psoriasis are plaque, guttate, inverse, pustular, and erythrodermic. Plaque psoriasis, also known as psoriasis vulga",
+        "cause": "The cause of psoriasis is not fully understood. Genetics, seasonal changes, skin damage, climate, immunocompromised state, specific infections, and the use of some medications have been connected with different types of psoriasis.",
+        "treatments": [
+            "While no cure is available for psoriasis, many treatment options exist. Topical agents are typically used for mild disease, phototherapy for moderate disease, and systemic agents for severe disease. There is no evidence to support the effectiveness of conventional topical and systemic drugs, biological therapy, or phototherapy for acute guttate psoriasis or an acute guttate flare of chronic psoriasis."
+        ],
+        "emotional_support": "",
+        "qa_pairs": [],
+        "sources": [
+            "kaggle_disease_symptoms_patient_profile",
+            "wikipedia"
+        ]
+    },
+    {
+        "disease": "Impetigo",
+        "symptoms": [
+            "skin_rash",
+            "high_fever",
+            "blister",
+            "red_sore_around_nose",
+            "yellow_crust_ooze"
+        ],
+        "summary": "Impetigo is a contagious bacterial infection that involves the superficial skin. The most common presentation is yellowish crusts on the face, arms, or legs. Less commonly there may be large blisters which affect the groin or armpits. The lesions may be painful or itchy. Fever is uncommon.\nIt is typically due to either Staphylococcus aureus or Streptococcus pyogenes. Risk factors include attending day care, crowding, poor nutrition, diabetes mellitus, contact sports, and breaks in the skin such ",
+        "cause": "Impetigo is primarily caused by Staphylococcus aureus, and sometimes by Streptococcus pyogenes. Both bullous and nonbullous are primarily caused by S. aureus, with Streptococcus also commonly being involved in the nonbullous form.",
+        "treatments": [
+            "Antibiotics, either as a cream or by mouth, are usually prescribed. Mild cases may be treated with mupirocin ointments. In 95% of cases, a single seven-day antibiotic course results in resolution in children. It has been advocated that topical antiseptics are inferior to topical antibiotics, and therefore should not be used as a replacement. However, the National Institute for Health and Care Excellence (NICE) as of February 2020 recommends a hydrogen peroxide 1% cream antiseptic rather than topical antibiotics for localised non-bullous impetigo in otherwise well individuals. This recommendation is part of an effort to reduce the overuse of antimicrobials that may contribute to the development of resistant organisms such as MRSA.\nMore severe cases require oral antibiotics, such as dicloxacillin, flucloxacillin, or erythromycin. Alternatively, amoxicillin combined with clavulanate potassium, cephalosporins (first-generation) and many others may also be used as an antibiotic treatment. Alternatives for people who are seriously allergic to penicillin or infections with methicillin-resistant Staphococcus aureus include doxycycline, clindamycin, and trimethoprim-sulphamethoxazole, although doxycycline should not be used in children under the age of eight years old due to the risk of drug-induced tooth discolouration. When streptococci alone are the cause, penicillin is the drug of choice. When the condition presents with ulcers, valacyclovir, an antiviral, may be given in case a viral infection is causing the ulcer."
+        ],
+        "emotional_support": "",
+        "qa_pairs": [],
+        "sources": [
+            "kaggle_disease_symptoms_patient_profile",
+            "wikipedia"
+        ]
+    }
+]

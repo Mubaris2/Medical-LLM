@@ -1,6 +1,11 @@
 pandas
 numpy
 beautifulsoup4
+wikipedia
+wikipedia-api
+
+huggingface_hub[hf_xet]
+kaggle
 lxml
 requests
 tqdm
