@@ -4,8 +4,8 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 
 EMBED_MODEL = SentenceTransformer("all-MiniLM-L6-v2")
 
-INDEX_PATH = "rag/medical_faiss.index"
-DOCS_PATH = "rag/docs.json"
+INDEX_PATH = "../rag/medical_faiss.index"
+DOCS_PATH = "../rag/docs.json"
 
 _index = None
 _documents = None

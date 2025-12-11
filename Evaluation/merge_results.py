@@ -2,7 +2,6 @@ import json
 from rouge_score import rouge_scorer
 from nltk.translate.bleu_score import sentence_bleu
 from sentence_transformers import SentenceTransformer, util
-import numpy as np
 import nltk
 nltk.download('punkt')
 
@@ -15,7 +14,7 @@ with open("lora_results.json") as f:
 with open("rag_results.json") as f:
     rag = {x["id"]: x for x in json.load(f)}
 
-with open("../data/eval_testcases.json") as f:
+with open("../DataEngineering/eval_testcases.json") as f:
     testcases = {t["id"]: t for t in json.load(f)}
 
 scorer = rouge_scorer.RougeScorer(['rougeL'], use_stemmer=True)
@@ -137,5 +136,5 @@ for tc_id in base:
         "rag_context_used": rag_context
     })
 
-with open("../evaluation_results.json", "w") as f:
+with open("evaluation_results.json", "w") as f:
     json.dump(final, f, indent=4)

@@ -1,6 +1,6 @@
 from fastapi import FastAPI, HTTPException, Depends
-from api.schema import QueryRequest, QueryResponse, DiseaseRequest, SymptomRequest, SymptomPrediction, DiseaseResponse
-from api.deps import load_index_and_docs, embed_text, load_llm
+from schema import QueryRequest, QueryResponse, DiseaseRequest, SymptomRequest, SymptomPrediction, DiseaseResponse
+from deps import load_index_and_docs, embed_text, load_llm
 import numpy as np, torch, json, re
 from typing import List
 

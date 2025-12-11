@@ -1,5 +1,6 @@
 pandas
 numpy
+matplotlib
 beautifulsoup4
 wikipedia
 wikipedia-api

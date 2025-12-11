@@ -17,7 +17,7 @@ This page visualizes evaluation metrics comparing:
 Data is loaded directly from `Evaluation/evaluation_results.json`.
 """)
 
-FILE_PATH = "Evaluation/evaluation_results.json"
+FILE_PATH = "../Evaluation/evaluation_results.json"
 
 try:
     with open(FILE_PATH, "r") as f:

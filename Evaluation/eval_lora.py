@@ -1,32 +1,52 @@
-from transformers import AutoTokenizer, AutoModelForCausalLM
-from peft import PeftModel
+from unsloth import FastLanguageModel
+import torch
 import json
 
 base_model = "mistralai/Mistral-7B-Instruct-v0.2"
-lora_path = "../model/lora_weights"
+lora_path = "../model/final_lora_weights"
 
-tokenizer = AutoTokenizer.from_pretrained(base_model)
-
-model = AutoModelForCausalLM.from_pretrained(
-    base_model,
-    torch_dtype="auto",
-    device_map="auto"
+model, tokenizer = FastLanguageModel.from_pretrained(
+    model_name = base_model,
+    max_seq_length = 2048,
+    dtype = torch.float16,
+    load_in_4bit = True,
 )
 
-model = PeftModel.from_pretrained(model, lora_path)
+model.load_adapter(lora_path)
+model.save_pretrained("merged_model", tokenizer)
 
 with open("../DataEngineering/eval_testcases.json") as f:
     testcases = json.load(f)
 
+del model
+del tokenizer
+
+model, tokenizer = FastLanguageModel.from_pretrained(
+    model_name = "merged_model",
+    max_seq_length = 2048,
+    dtype = torch.float16,
+    load_in_4bit = True,
+    device_map="auto",
+)
+
 results = []
 
 for tc in testcases:
-    inputs = tokenizer(tc["input"], return_tensors="pt").to(model.device)
-    output = model.generate(**inputs, max_new_tokens=150)
+    input_text = tc["input"]
+
+    inputs = tokenizer(input_text, return_tensors="pt")
+    inputs = {k: v.to("cuda") for k, v in inputs.items()}
+
+    output = model.generate(
+        **inputs,
+        max_new_tokens=150,
+    )
+
     prediction = tokenizer.decode(output[0], skip_special_tokens=True)
 
     results.append({
         "id": tc["id"],
+        "input": input_text,
         "prediction_lora": prediction
     })
 
