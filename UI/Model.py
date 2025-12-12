@@ -1,7 +1,8 @@
 import streamlit as st
 import requests
 
-API_BASE = st.secrets.get("api_url", "http://localhost:8000")
+# Change the URL below according to your deployed API endpoint
+API_BASE = "https://decussately-hamular-odelia.ngrok-free.dev"
 
 st.set_page_config(page_title="Medical LLM Demo", layout="centered")
 

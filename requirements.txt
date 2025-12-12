@@ -13,13 +13,7 @@ tqdm
 
 unsloth
 unsloth-zoo
-transformers>=4.39.0
-datasets
-accelerate
-peft
-bitsandbytes
 sentencepiece
-
 sentence-transformers
 faiss-cpu
 
@@ -29,6 +23,7 @@ scikit-learn
 
 fastapi
 uvicorn
+pydantic
 
 gradio
 streamlit

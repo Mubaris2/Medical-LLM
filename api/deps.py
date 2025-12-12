@@ -1,6 +1,6 @@
-import faiss, json, numpy as np, torch
+import faiss, json, torch
 from sentence_transformers import SentenceTransformer
-from transformers import AutoTokenizer, AutoModelForCausalLM
+from unsloth import FastLanguageModel
 
 EMBED_MODEL = SentenceTransformer("all-MiniLM-L6-v2")
 
@@ -21,11 +21,15 @@ def load_index_and_docs():
 
 _model = None
 _tokenizer = None
-def load_llm(model_path="../model/final_lora_weights"):
+def load_llm(model_path="../model/merged_model"):
     global _model, _tokenizer
     if _model is None:
-        _tokenizer = AutoTokenizer.from_pretrained(model_path)
-        _model = AutoModelForCausalLM.from_pretrained(model_path, device_map="auto")
+        _model, _tokenizer = FastLanguageModel.from_pretrained(
+            model_name=model_path,
+            max_seq_length=2048,
+            dtype=torch.float16,
+            load_in_4bit=True,
+        )
     return _tokenizer, _model
 
 def embed_text(texts):
