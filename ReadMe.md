@@ -47,13 +47,7 @@ Always consult a **qualified healthcare professional** for any medical concerns.
 
 ## 🌐 Live Demo (On-Demand)
 
-🚀 **Deployed Frontend:**  
-👉 https://your-frontend-link
-
-⚙️ **Backend Availability:**  
-
-The backend inference service is **started on-demand** due to computational cost constraints.  
-If the backend is inactive, the frontend may show connection errors until the inference service is restarted.
+Check main branch for further details.
 
 ---
 
