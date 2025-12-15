@@ -1,21 +1,22 @@
 pandas
 numpy
 matplotlib
-beautifulsoup4
 wikipedia
 wikipedia-api
 
 huggingface_hub[hf_xet]
 kaggle
-lxml
 requests
 tqdm
 
 unsloth
 unsloth-zoo
+transformers
 sentencepiece
 sentence-transformers
 faiss-cpu
+
+torch --index-url https://download.pytorch.org/whl/cpu
 
 rouge-score
 nltk
@@ -24,6 +25,4 @@ scikit-learn
 fastapi
 uvicorn
 pydantic
-
-gradio
 streamlit

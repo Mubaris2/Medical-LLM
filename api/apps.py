@@ -1,12 +1,21 @@
 from fastapi import FastAPI, HTTPException
+from contextlib import asynccontextmanager
 from schema import QueryRequest, QueryResponse, DiseaseRequest, SymptomRequest, SymptomPrediction
 from deps import load_index_and_docs, embed_text, load_llm
 import numpy as np, torch
 from typing import List
 
-app = FastAPI(title="MedicalLLM RAG API")
+index = None
+docs = None
 
-index, docs = load_index_and_docs()
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    global index, docs
+    index, docs = load_index_and_docs()
+    yield
+
+app = FastAPI(title="MedicalLLM RAG API", lifespan=lifespan)
+
 tokenizer, model = load_llm()
 
 def retrieve_docs(question: str, top_k: int=3):
@@ -60,3 +69,7 @@ def symptom_checker(req: SymptomRequest):
         reason = f"Matches symptoms: {', '.join(req.symptoms)} (doc similarity)"
         preds.append(SymptomPrediction(disease=disease_name, reason=reason, confidence=confidence))
     return preds
+
+@app.get("/")
+def root():
+    return {"msg": "root working"}
