@@ -18,7 +18,7 @@ This page visualizes evaluation metrics comparing:
 Data is loaded directly from `Evaluation/evaluation_results.json`.
 """)
 
-BASE_DIR = Path(__file__).resolve().parent[1]
+BASE_DIR = Path(__file__).resolve().parent.parent
 FILE_PATH = BASE_DIR / "data" / "evaluation_results.json"
 
 try:
