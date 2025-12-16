@@ -48,7 +48,7 @@ Always consult a **qualified healthcare professional** for any medical concerns.
 ## 🌐 Live Demo (On-Demand)
 
 🚀 **Deployed Frontend:**  
-👉 https://your-frontend-link
+👉 https://medical-llm-mubaris.streamlit.app/
 
 ⚙️ **Backend Availability:**  
 

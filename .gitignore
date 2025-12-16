@@ -1,5 +1,0 @@
-venv
-adapter_model.safetensors
-DataEngineering/disease_symptom_description_dataset.zip
-DataEngineering/disease-symptom-description-dataset/
-DataEngineering/*.json
